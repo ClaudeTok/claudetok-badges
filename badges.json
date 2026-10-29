@@ -10,7 +10,11 @@
   },
   "7555802330240336918" : {
     "badges" : [
-      "owner"
+      "owner",
+      "supporter",
+      "early",
+      "beta",
+      "bughunter"
     ],
     "name" : "shadow4yy",
     "nicks" : [
